@@ -61,4 +61,4 @@ The game is deployed and accessible online:
 3. If they don't match, they flip back after a short delay.  
 4. Match all pairs to win the game!  
 
-Enjoy the challenge and have fun! 🎉
+Enjoy the challenge and have fun!! 🎉
