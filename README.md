@@ -5,7 +5,7 @@ Memory Card Game is a fun and interactive web-based game designed to test and im
 
 This project demonstrates the use of **React**, **state management**, and **modern web development practices** to create an interactive and responsive user experience.
 
----
+----
 
 🎯 **Problem Statement**  
 Remembering card positions in a shuffled deck can be challenging, and traditional memory games often lack interactivity and visual appeal. This project aims to provide a digital solution that is both visually engaging and easy to play.
