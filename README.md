@@ -10,7 +10,7 @@ This project demonstrates the use of **React**, **state management**, and **mode
 🎯 **Problem Statement**  
 Remembering card positions in a shuffled deck can be challenging, and traditional memory games often lack interactivity and visual appeal. This project aims to provide a digital solution that is both visually engaging and easy to play.
 
----
+----
 
 💡 **Solution**  
 Memory Card Game provides:  
