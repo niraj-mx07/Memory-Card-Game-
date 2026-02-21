@@ -19,7 +19,7 @@ Memory Card Game provides:
 - A responsive design that works seamlessly across devices.  
 - A "New Game" option to reset and start fresh anytime.  
 
----
+----
 
 ✨ **Key Features**  
 - 🃏 **Interactive Gameplay**: Flip cards to reveal their values and match pairs.  
