@@ -53,7 +53,7 @@ The game is deployed and accessible online:
 - **Scalable Design**: Easily extendable to include more features or card types.  
 - **Real-World Use Case**: A great example of building interactive web applications.  
 
----
+----
 
 🎮 **How to Play**  
 1. Flip two cards by clicking on them.  
