@@ -40,7 +40,7 @@ Memory Card Game provides:
 ### ⚙️ Backend  
 - No backend required — the game is fully client-side.  
 
-----
+-----
 
 🚀 **Deployment**  
 The game is deployed and accessible online:  
