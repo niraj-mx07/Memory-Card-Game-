@@ -29,7 +29,7 @@ Memory Card Game provides:
 - 📱 **Responsive Design**: Optimized for both desktop and mobile devices.  
 - ⚡ **Smooth Animations**: Enjoy a polished and engaging user experience.  
 
------
+------
 
 🛠️ **Technology Stack**  
 ### 🎨 Frontend  
